@@ -225,7 +225,7 @@ Esta herramienta online genera números aleatorios de forma visual y audible par
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/usuario/bingo.git
+git clone https://github.com/walticogt/bingo.git
 cd bingo
 
 # Crear entorno virtual
@@ -341,8 +341,7 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 
 ## 📞 Contacto
 
-- GitHub: [@usuario](https://github.com/usuario)
-- Email: tu-email@ejemplo.com
+- GitHub: [@walticogt](https://github.com/walticogt)
 
 ## 🔄 Changelog
 
